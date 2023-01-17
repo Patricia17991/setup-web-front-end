@@ -1,9 +1,9 @@
-import { useState } from 'react'
+import { Habit } from './components/Habit'
 
 
 function App() {
   return (
-    <h1>hello</h1>
+    <Habit/>
   )
 }
 
