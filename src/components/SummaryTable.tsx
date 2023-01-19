@@ -51,4 +51,4 @@ export function SummaryTable() {
       </div>
     </div>
   );
-}
+} 
