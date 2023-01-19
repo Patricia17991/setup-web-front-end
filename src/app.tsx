@@ -1,13 +1,11 @@
-import { Habit } from './components/Habit'
+//import { Habit } from './components/Habit'
 import "./styles/global.css"
 
-function App() {
+export function App() {
   return (
     <>
-     <Habit completed={3}/>
-     <Habit completed={4}/>
+    
     </>
   )
 }
 
-export default App
