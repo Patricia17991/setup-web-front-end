@@ -11,8 +11,8 @@ interface HabitLisProps {
 
 interface HabitsInfo {
   possibleHabits: {
-    id: string;
-    title: string;
+    id: string
+    title: string
     created_at: string
   }[]
   completedHabits: string[]
